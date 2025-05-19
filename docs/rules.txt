@@ -1,3 +1,4 @@
+[Rule]
 DOMAIN-SUFFIX,0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost,REJECT
 DOMAIN-SUFFIX,0.0.0.1,REJECT
 DOMAIN-SUFFIX,0.myikas.com,REJECT
@@ -17651,6 +17652,7 @@ DOMAIN-SUFFIX,clearbit.com^$third-party,REJECT
 DOMAIN-SUFFIX,clearbitjs.com^$third-party,REJECT
 DOMAIN-SUFFIX,clearbitscripts.com,REJECT
 DOMAIN-SUFFIX,clearbrands.actonservice.com,REJECT
+DOMAIN-SUFFIX,clearcutadministration.com,REJECT
 DOMAIN-SUFFIX,clearonclick.com,REJECT
 DOMAIN-SUFFIX,clearsale.com.br^$third-party,REJECT
 DOMAIN-SUFFIX,clearspring.com/at/,REJECT
@@ -20693,6 +20695,7 @@ DOMAIN-SUFFIX,cyohmj.catawiki.com,REJECT
 DOMAIN-SUFFIX,cypfdxbynb.com,REJECT
 DOMAIN-SUFFIX,cypresslocum.com,REJECT
 DOMAIN-SUFFIX,cyrociest.shop,REJECT
+DOMAIN-SUFFIX,cysegreglo.pro,REJECT
 DOMAIN-SUFFIX,cytomecruor.top,REJECT
 DOMAIN-SUFFIX,cyuyvjwyfvn.com,REJECT
 DOMAIN-SUFFIX,cyvxfq.jennikayne.com,REJECT
@@ -25864,6 +25867,7 @@ DOMAIN-SUFFIX,eburnaboost.top,REJECT
 DOMAIN-SUFFIX,eburnahornito.shop,REJECT
 DOMAIN-SUFFIX,ebuzzing.com,REJECT
 DOMAIN-SUFFIX,ebwupu.superbrightleds.com,REJECT
+DOMAIN-SUFFIX,ebxaslffntje.xyz,REJECT
 DOMAIN-SUFFIX,ebxirc.taylorstitch.com,REJECT
 DOMAIN-SUFFIX,ebz.io,REJECT
 DOMAIN-SUFFIX,ec-concier.com^$third-party,REJECT
@@ -33162,6 +33166,7 @@ DOMAIN-SUFFIX,grmtech.net^$third-party,REJECT
 DOMAIN-SUFFIX,grn.openapp.link,REJECT
 DOMAIN-SUFFIX,grnext.crockpot-romania.ro,REJECT
 DOMAIN-SUFFIX,groabopith.xyz,REJECT
+DOMAIN-SUFFIX,groadamsoux.com,REJECT
 DOMAIN-SUFFIX,groampez.xyz,REJECT
 DOMAIN-SUFFIX,groamsal.net,REJECT
 DOMAIN-SUFFIX,groaxonsoow.net,REJECT
@@ -59537,6 +59542,7 @@ DOMAIN-SUFFIX,rjftgiby.com,REJECT
 DOMAIN-SUFFIX,rjg2.destinia.ly,REJECT
 DOMAIN-SUFFIX,rjgsjm.gigameubel.nl,REJECT
 DOMAIN-SUFFIX,rjjynf.showcase-tv.com,REJECT
+DOMAIN-SUFFIX,rjokawzwvryra.top,REJECT
 DOMAIN-SUFFIX,rjowzlkaz.today,REJECT
 DOMAIN-SUFFIX,rjsouj.clubd.co.jp,REJECT
 DOMAIN-SUFFIX,rjw4obbw.com,REJECT
@@ -77644,6 +77650,7 @@ DOMAIN-SUFFIX,tsapphires.buzz,REJECT
 DOMAIN-SUFFIX,tsapphiresand.info,REJECT
 DOMAIN-SUFFIX,tsaristcanapes.com,REJECT
 DOMAIN-SUFFIX,tsarkinds.com,REJECT
+DOMAIN-SUFFIX,tsazdxinqmano.love,REJECT
 DOMAIN-SUFFIX,tsbck.com,REJECT
 DOMAIN-SUFFIX,tsbkht.puritan.com,REJECT
 DOMAIN-SUFFIX,tsbluebox.com^$third-party,REJECT
@@ -79798,6 +79805,7 @@ DOMAIN-SUFFIX,vfuqivac.com,REJECT
 DOMAIN-SUFFIX,vfvcxv.naturhaeuschen.de,REJECT
 DOMAIN-SUFFIX,vfvdsati.com,REJECT
 DOMAIN-SUFFIX,vfyhwapi.com,REJECT
+DOMAIN-SUFFIX,vfyjinofkad.com,REJECT
 DOMAIN-SUFFIX,vg.no/stats/,REJECT
 DOMAIN-SUFFIX,vg247-uk.vg247.com,REJECT
 DOMAIN-SUFFIX,vg4u8rvq65t6.com,REJECT
@@ -80621,6 +80629,7 @@ DOMAIN-SUFFIX,vxlpha.weddingpark.net,REJECT
 DOMAIN-SUFFIX,vxohkh.laboutiqueofficielle.com,REJECT
 DOMAIN-SUFFIX,vxpcarcapffdp.global,REJECT
 DOMAIN-SUFFIX,vxvibc.asahi-kasei.co.jp,REJECT
+DOMAIN-SUFFIX,vydfergcp.com,REJECT
 DOMAIN-SUFFIX,vyebzzbovvorz.top,REJECT
 DOMAIN-SUFFIX,vyeysj.foto-mundus.de,REJECT
 DOMAIN-SUFFIX,vyfrxuytzn.com,REJECT
