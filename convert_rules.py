@@ -11,8 +11,12 @@ SOURCES = [
     "https://easylist.to/easylist/easyprivacy.txt"
 ]
 
+# 输出文件路径
+OUTPUT_DIR = "docs"
+OUTPUT_FILE = "rules.txt"
+SITE_URL = "https://luckyyweif.github.io/EasyListShadowrocket/rules.txt"
+
 def fetch_rules(url):
-    """下载并按行拆分规则"""
     r = requests.get(url, timeout=30)
     r.raise_for_status()
     return r.text.splitlines()
@@ -24,10 +28,8 @@ def main():
         lines = fetch_rules(url)
         for rule in lines:
             rule = rule.strip()
-            # 跳过注释或空行
             if not rule or rule.startswith("!"):
                 continue
-            # 匹配以 || 开头的规则
             if rule.startswith("||"):
                 # 去掉开头 "||"，去掉尾部 "^"
                 domain = re.sub(r"\^$", "", rule[2:])
@@ -36,16 +38,18 @@ def main():
     # 去重并排序
     shadowrocket_rules = sorted(set(shadowrocket_rules))
 
-    # 准备输出目录
-    os.makedirs("docs", exist_ok=True)
-    out_path = os.path.join("docs", "rules.txt")
+    # 确保输出目录存在
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    out_path = os.path.join(OUTPUT_DIR, OUTPUT_FILE)
 
-    # 写入 [Rule] 表头及所有规则
+    # 写入文件：先写头部，再写规则
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write("[Rule]\n")
+        # 顶部添加标识行
+        f.write(f"#RULE-SET, {SITE_URL}\n")
+        # 写入所有规则
         f.write("\n".join(shadowrocket_rules))
 
-    print(f"Generated {out_path}: {len(shadowrocket_rules)} rules (with [Rule] header)")
+    print(f"Generated {out_path}: {len(shadowrocket_rules)} rules")
 
 if __name__ == "__main__":
     main()
