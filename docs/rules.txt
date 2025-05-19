@@ -1,4 +1,4 @@
-[Rule]
+#RULE-SET, https://luckyyweif.github.io/EasyListShadowrocket/rules.txt
 DOMAIN-SUFFIX,0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost,REJECT
 DOMAIN-SUFFIX,0.0.0.1,REJECT
 DOMAIN-SUFFIX,0.myikas.com,REJECT
@@ -11397,6 +11397,7 @@ DOMAIN-SUFFIX,apxlv.com,REJECT
 DOMAIN-SUFFIX,apxratqisc.com,REJECT
 DOMAIN-SUFFIX,apxszeaj.com,REJECT
 DOMAIN-SUFFIX,apxtarget.com^$third-party,REJECT
+DOMAIN-SUFFIX,apyboqno.com,REJECT
 DOMAIN-SUFFIX,apycomm.com^$third-party,REJECT
 DOMAIN-SUFFIX,apyoth.com^$third-party,REJECT
 DOMAIN-SUFFIX,apzgcipacpu.com,REJECT
@@ -82469,6 +82470,7 @@ DOMAIN-SUFFIX,wroahqavna.com,REJECT
 DOMAIN-SUFFIX,wrongpotato.com,REJECT
 DOMAIN-SUFFIX,wrongwayfarer.com,REJECT
 DOMAIN-SUFFIX,wrongwound.com,REJECT
+DOMAIN-SUFFIX,wrqkrnicufwmc.xyz,REJECT
 DOMAIN-SUFFIX,wrrlidnlerx.com,REJECT
 DOMAIN-SUFFIX,wrtgbqgjtjo.com,REJECT
 DOMAIN-SUFFIX,wrtn.ai/proxy/client/metrics,REJECT
@@ -83370,6 +83372,7 @@ DOMAIN-SUFFIX,wxseedslpi.com,REJECT
 DOMAIN-SUFFIX,wxwsmt.matsmart.fi,REJECT
 DOMAIN-SUFFIX,wyaoormajveqk.top,REJECT
 DOMAIN-SUFFIX,wyaoormajvwqj.top,REJECT
+DOMAIN-SUFFIX,wyaoormajvykm.top,REJECT
 DOMAIN-SUFFIX,wyaopp.lacoccinelle.net,REJECT
 DOMAIN-SUFFIX,wyelmp.vidaxl.si,REJECT
 DOMAIN-SUFFIX,wyglyvaso.com,REJECT
