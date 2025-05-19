@@ -1,4 +1,3 @@
-#RULE-SET, https://luckyyweif.github.io/EasyListShadowrocket/rules.txt
 DOMAIN-SUFFIX,0.0.0.0^$third-party,domain=~0.0.0.0|~127.0.0.1|~[::1]|~[::]|~local|~localhost,REJECT
 DOMAIN-SUFFIX,0.0.0.1,REJECT
 DOMAIN-SUFFIX,0.myikas.com,REJECT
@@ -19178,6 +19177,7 @@ DOMAIN-SUFFIX,constructpiece.com,REJECT
 DOMAIN-SUFFIX,constructpreachystopper.com,REJECT
 DOMAIN-SUFFIX,constructpreachystopper.com^$popup,REJECT
 DOMAIN-SUFFIX,consukultinge.info,REJECT
+DOMAIN-SUFFIX,consukultingeca.com,REJECT
 DOMAIN-SUFFIX,consultant.ru/js/counter.js,REJECT
 DOMAIN-SUFFIX,consultantchow.com,REJECT
 DOMAIN-SUFFIX,consultantvariabilitybandage.com,REJECT
@@ -28344,6 +28344,7 @@ DOMAIN-SUFFIX,extsoft.info^$document,REJECT
 DOMAIN-SUFFIX,extsoft.info^$popup,REJECT
 DOMAIN-SUFFIX,exuberantedge.com,REJECT
 DOMAIN-SUFFIX,exurbdaimiel.com,REJECT
+DOMAIN-SUFFIX,exvrbxjy.com,REJECT
 DOMAIN-SUFFIX,exwvpm.misumi-ec.com,REJECT
 DOMAIN-SUFFIX,exxaygm.com,REJECT
 DOMAIN-SUFFIX,exxaygm.com^$popup,REJECT
@@ -73548,6 +73549,7 @@ DOMAIN-SUFFIX,tilttrk.com^$popup,REJECT
 DOMAIN-SUFFIX,tiltwin.com,REJECT
 DOMAIN-SUFFIX,tiltwin.com^$popup,REJECT
 DOMAIN-SUFFIX,tim.nextinpact.com,REJECT
+DOMAIN-SUFFIX,timberfrittermud.com,REJECT
 DOMAIN-SUFFIX,time.is/img/nod.png,REJECT
 DOMAIN-SUFFIX,time4news.net,REJECT
 DOMAIN-SUFFIX,timeclock.mytoolr.com,REJECT
@@ -81639,6 +81641,7 @@ DOMAIN-SUFFIX,weremoiety.com,REJECT
 DOMAIN-SUFFIX,wererxrzmp.com,REJECT
 DOMAIN-SUFFIX,werkenntdenbesten.de/js/tracking.,REJECT
 DOMAIN-SUFFIX,werkenntdenbesten.de/pd.js,REJECT
+DOMAIN-SUFFIX,werlxcdenbm.com,REJECT
 DOMAIN-SUFFIX,wernerelectric.actonservice.com,REJECT
 DOMAIN-SUFFIX,wesbgz.travel.co.jp,REJECT
 DOMAIN-SUFFIX,weshooship.net,REJECT
@@ -83541,6 +83544,7 @@ DOMAIN-SUFFIX,xepsygfqsvyyv.tech,REJECT
 DOMAIN-SUFFIX,xerasiasoled.top,REJECT
 DOMAIN-SUFFIX,xero.com/api/events/,REJECT
 DOMAIN-SUFFIX,xewihp.bayut.com,REJECT
+DOMAIN-SUFFIX,xfbjiyqezmwew.space,REJECT
 DOMAIN-SUFFIX,xfdmihlzrmks.com,REJECT
 DOMAIN-SUFFIX,xfileload.com,REJECT
 DOMAIN-SUFFIX,xfinity.com/event/,REJECT
@@ -84238,6 +84242,7 @@ DOMAIN-SUFFIX,yoc.younited-credit.com,REJECT
 DOMAIN-SUFFIX,yockingdey.shop,REJECT
 DOMAIN-SUFFIX,yodayo.com/scripts/pixel.js,REJECT
 DOMAIN-SUFFIX,yodbox.com^$popup,REJECT
+DOMAIN-SUFFIX,yofnvrab.com,REJECT
 DOMAIN-SUFFIX,yogapersuasive.com,REJECT
 DOMAIN-SUFFIX,yogar2ti8nf09.com,REJECT
 DOMAIN-SUFFIX,yogolp.beststl.com,REJECT
