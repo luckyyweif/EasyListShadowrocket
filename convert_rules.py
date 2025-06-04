@@ -9,6 +9,7 @@ import os
 SOURCES = [
     "https://easylist.to/easylist/easylist.txt",
     "https://easylist.to/easylist/easyprivacy.txt"
+    "https://raw.githubusercontent.com/easylist/easylistchina/refs/heads/master/easylistchina.txt"
 ]
 
 def fetch_rules(url):
