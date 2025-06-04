@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,10nvejhblhha.com,REJECT
 DOMAIN-SUFFIX,10q6e9ne5.de,REJECT
 DOMAIN-SUFFIX,10sn95to9.de,REJECT
 DOMAIN-SUFFIX,10stepswp.advancedtech.com,REJECT
+DOMAIN-SUFFIX,10xlaunch.ai^$third-party,REJECT
 DOMAIN-SUFFIX,11006451.xyz,REJECT
 DOMAIN-SUFFIX,11152646.xyz,REJECT
 DOMAIN-SUFFIX,11152646.xyz^$document,popup,REJECT
@@ -21617,6 +21618,7 @@ DOMAIN-SUFFIX,d2lp70uu6oz7vk.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2ltukojvgbso5.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2lxammzjarx1n.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2lxqodqbpy7c2.cloudfront.net,REJECT
+DOMAIN-SUFFIX,d2lyx5ly60ksu3.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2m6mzhbzc72b5.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2m785nxw66jui.cloudfront.net,REJECT
 DOMAIN-SUFFIX,d2m94lbnm5w6s8.cloudfront.net,REJECT
@@ -23214,6 +23216,8 @@ DOMAIN-SUFFIX,dearesthydrogen.com,REJECT
 DOMAIN-SUFFIX,dearestimmortality.com,REJECT
 DOMAIN-SUFFIX,dearsdieback.shop,REJECT
 DOMAIN-SUFFIX,deasandcomemunic.com,REJECT
+DOMAIN-SUFFIX,debales.ai/api/analytic/,REJECT
+DOMAIN-SUFFIX,debales.ai/ingest/,REJECT
 DOMAIN-SUFFIX,debatabletent.com,REJECT
 DOMAIN-SUFFIX,debaucky.com,REJECT
 DOMAIN-SUFFIX,debaucky.com^$document,REJECT
@@ -38115,6 +38119,7 @@ DOMAIN-SUFFIX,inktad.com,REJECT
 DOMAIN-SUFFIX,inkubate.actonservice.com,REJECT
 DOMAIN-SUFFIX,inlacesglisten.shop,REJECT
 DOMAIN-SUFFIX,inlautmanuao.top,REJECT
+DOMAIN-SUFFIX,inlead.digital/js/script.js,REJECT
 DOMAIN-SUFFIX,inlugiar.com,REJECT
 DOMAIN-SUFFIX,inmateimpossibility.com,REJECT
 DOMAIN-SUFFIX,inmhh.com,REJECT
@@ -68665,6 +68670,7 @@ DOMAIN-SUFFIX,sorteptoadsalr.com,REJECT
 DOMAIN-SUFFIX,sorterswinch.top,REJECT
 DOMAIN-SUFFIX,sortext.com^$third-party,REJECT
 DOMAIN-SUFFIX,sortingjunked.shop,REJECT
+DOMAIN-SUFFIX,sortlist.cloud/log,REJECT
 DOMAIN-SUFFIX,sortstructure.com,REJECT
 DOMAIN-SUFFIX,sorucall.com,REJECT
 DOMAIN-SUFFIX,sorxyx.vi.nl,REJECT
@@ -79922,6 +79928,7 @@ DOMAIN-SUFFIX,usa.cc^$third-party,REJECT
 DOMAIN-SUFFIX,usabilitybook.com,REJECT
 DOMAIN-SUFFIX,usabilitytools.com^$third-party,REJECT
 DOMAIN-SUFFIX,usabilla.com^$third-party,REJECT
+DOMAIN-SUFFIX,usage.centsdonations.com,REJECT
 DOMAIN-SUFFIX,usage.seibert-media.io^$third-party,REJECT
 DOMAIN-SUFFIX,usainoad.net,REJECT
 DOMAIN-SUFFIX,usaoptimizedby.increasingly.co,REJECT
